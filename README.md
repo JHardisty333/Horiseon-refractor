@@ -7,7 +7,7 @@ A website that offers services for online reputation management, marketing, and 
 *HTML *CSS
 
 ## Live URL Link
-    https://jhardisty333.github.io/Horiseon-refractor/
+https://jhardisty333.github.io/Horiseon-refractor/
 
 ### Website Mockup
  <img src="./assets/images/Horiseon-demo.png" alt="" />
